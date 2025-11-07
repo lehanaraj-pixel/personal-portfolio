@@ -1,0 +1,17 @@
+<html>
+  <body>
+
+<div class="toggle-switch">
+  <input type="radio" id="coding" name="choice" value="coding" checked>
+  <label for="coding">Coding</label>
+
+  <input type="radio" id="designing" name="choice" value="designing">
+  <label for="designing">Designing</label>
+
+  <input type="radio" id="writing" name="choice" value="writing">
+  <label for="writing">Writing</label>
+  
+  <div class="switch-selection"></div>
+</div>
+</body>
+</html>
